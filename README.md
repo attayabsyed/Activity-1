@@ -1,1 +1,1 @@
-# Activity-1
+# Python-Student-Manager-CLI
